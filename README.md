@@ -37,6 +37,7 @@ The program reads from standard input:
 
 <img width="288" alt="image" src="https://github.com/user-attachments/assets/bb53803a-93ab-46ea-9310-6260f7ab6b79" />
 
+input:
 ```
 7 8
 3 4
